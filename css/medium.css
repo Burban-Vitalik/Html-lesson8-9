@@ -1,0 +1,92 @@
+@media screen and (min-width: 970px) and (max-width: 1199.98px) {
+
+    .header-nav {
+        height: 120px;
+    }
+    
+    .wrapper {
+        width: 24px;
+        background: none;
+        position: absolute;
+        left: 30px;
+        top: 45px;
+    }
+    
+    .burger-line {
+        position: absolute;
+        /* top: 8px; */
+        right: 5px;
+        width: 24px;
+    }
+    
+    .header-logo {
+        margin: 45px 9px 22px 0;
+        font-size: 42px;
+    }
+
+/***********************
+    HEADER CONTENT
+**********************/
+.header-img {
+    height: 570px;
+    max-width: 50%;
+    width: 100%;
+}
+
+.header-block {
+    height: 570px;
+    max-width: 50%;
+    width: 100%;
+    padding: 72px 18px 72px 0;
+}
+
+.header-box {
+    margin-left: 21px;
+}
+
+.h-item-flex{
+    margin-left: 0;
+    margin-top: 0;
+    width: 343px;
+}
+
+.h-date {
+    font-size: 12px;
+    color: #FFFFFF;
+    line-height: 18px;
+
+}
+
+.h-type {
+    display: none;
+}
+
+.h-title {
+    font-size: 22px;
+    line-height: 27px;
+    margin-left: 0;
+    margin-top: 20px;
+    word-spacing: 2px;
+}
+
+.h-p {
+    font-size: 12px;
+    line-height: 18px;
+    margin-left: 0;
+    margin-right: 18px;
+    margin-top: 20px;
+    word-spacing: 2px;
+}
+
+.h-submit {
+    margin-left: 2px;
+    margin-top: 14px;
+    word-spacing: 3px;
+    height: 40px;
+}
+
+.main-featured {
+    flex-wrap: wrap;
+}
+    
+}
